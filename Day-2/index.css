@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    width: 100%;
+}
+
+.header {
+    width: 100%;
+    background: #102a47;
+    color: #ffffff;
+    padding: 2em 0;
+}
+
+.title,
+.header-content,
+.content-title,
+.main-content {
+    width: 60%;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.title,
+.content-title {
+    padding-bottom: .5em;
+}
+
+.content {
+    width: 100%;
+    padding: 2em 0;
+}
