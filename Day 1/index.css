@@ -14,9 +14,11 @@
 }
 
 .header {
-    text-align: center;
+    text-align: left;
+    width: 50%;
 }
 
 .content {
     margin-top: 2rem;
+    width: 50%;
 }
